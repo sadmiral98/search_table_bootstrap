@@ -6,10 +6,10 @@ or it has but only 1 input text ?  so its not satisfying your needs
 so i made this library here to freely search in each column.
 
 just put this in head :
-<link href="https://cdn.jsdelivr.net/gh/sadmiral98/search_table_bootstrap_lib/dist/search_table_bootstrap.min.css" rel="stylesheet"/>
+`<link href="https://cdn.jsdelivr.net/gh/sadmiral98/search_table_bootstrap_lib/dist/search_table_bootstrap.min.css" rel="stylesheet"/>`
 
 and in the footer :
-<script src="https://cdn.jsdelivr.net/gh/sadmiral98/search_table_bootstrap_lib/dist/search_table_bootstrap.min.js"></script>
+`<script src="https://cdn.jsdelivr.net/gh/sadmiral98/search_table_bootstrap_lib/dist/search_table_bootstrap.min.js"></script>`
 
 Requirement :
 - Bootstrap V5
