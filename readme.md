@@ -5,10 +5,12 @@ or it has but only 1 input text ?  so its not satisfying your needs
 
 so i made this library here to freely search in each column.
 
-<p>just put this in head :</p>
+<p>just put this in head : </p>
+
 `<link href="https://cdn.jsdelivr.net/gh/sadmiral98/search_table_bootstrap_lib/dist/search_table_bootstrap.min.css" rel="stylesheet"/>`
 
 <p>and in the footer :</p>
+
 `<script src="https://cdn.jsdelivr.net/gh/sadmiral98/search_table_bootstrap_lib/dist/search_table_bootstrap.min.js"></script>`
 
 Requirement :
