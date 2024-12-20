@@ -17,6 +17,6 @@ Requirement :
 - Bootstrap V5
 - JQuery
 
-contact me :
+Contact me :
 - [Email](mailto:rizkysptr3798@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/rizky-saputra-a81143275/)
